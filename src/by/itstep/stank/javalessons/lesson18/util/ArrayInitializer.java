@@ -25,7 +25,7 @@ public class ArrayInitializer {
         Random random = new Random();
 
         for (int i = 0; i < array.length; i++) {
-            array [i] = random.nextInt();
+            array [i] = random.nextInt(MAX_NUMBER - MIN_NUMBER + 1) + MIN_NUMBER;
 
         }
     }
