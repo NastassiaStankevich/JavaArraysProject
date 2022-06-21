@@ -6,6 +6,8 @@ public class ArraySorter {
     }
 
 
+
+
     public static void selectedSortAcs(int[] array) {
 
         for (int j = 0; j < array.length - 1; j++) {
