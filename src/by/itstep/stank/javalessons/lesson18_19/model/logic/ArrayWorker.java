@@ -44,4 +44,23 @@ public class ArrayWorker {
 
     }
 
+    public  static  void reverse(int[] array){
+
+        int length = array.length /2;
+
+        for (int i = 0; i < length ; i++) {
+           int temp = array[i];
+           array[i] = array[array.length -1 -i];
+           array[array.length -1 -i] = temp;
+
+        }
+    }
+
 }
+
+
+
+
+
+
+
