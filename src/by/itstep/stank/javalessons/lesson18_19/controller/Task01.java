@@ -1,9 +1,9 @@
-package by.itstep.stank.javalessons.lesson18.controller;
+package by.itstep.stank.javalessons.lesson18_19.controller;
 
-import by.itstep.stank.javalessons.lesson18.model.logic.ArrayWorker;
-import by.itstep.stank.javalessons.lesson18.util.ArrayInitializer;
-import by.itstep.stank.javalessons.lesson18.util.Convertor;
-import by.itstep.stank.javalessons.lesson18.view.Printer;
+import by.itstep.stank.javalessons.lesson18_19.model.logic.ArrayWorker;
+import by.itstep.stank.javalessons.lesson18_19.util.ArrayInitializer;
+import by.itstep.stank.javalessons.lesson18_19.util.Convertor;
+import by.itstep.stank.javalessons.lesson18_19.view.Printer;
 
 import java.util.Scanner;
 
